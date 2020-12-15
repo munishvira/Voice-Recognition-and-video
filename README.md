@@ -1,2 +1,7 @@
 #  Voice-Recognition-and-video
-dsvdsv
+
+## How to run the project:
+Type ***npm install*** before running project
+
+## Screenshots:
+
